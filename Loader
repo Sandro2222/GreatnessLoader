@@ -18,7 +18,7 @@ local GameConfigs = {
         script = "https://gist.githubusercontent.com/Sandro2222/82a733801230fa80908b9cecc4042448/raw/1fd109006b6274699f4d16391e6feb6f5bffc327/CB-GREATNESS",
         color = Color3.fromRGB(255, 0, 127)
     },
-    [79546208627805] = {
+    [126509999114328] = {
         name = "99 Nights Greatness",
         script = "https://gist.githubusercontent.com/Sandro2222/d62f9cdd63402a370ea12071ccd77d41/raw/37088e15ea8bed992aacb38586f2986df496e098/99nightsGreatness",
         color = Color3.fromRGB(170, 0, 255)
